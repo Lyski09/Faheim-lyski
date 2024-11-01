@@ -80,7 +80,7 @@
 
     <script>
         var isLoggedIn = false;
-        var curseWords = ["curse1", "curse2", "curse3"]; // Add more curse words as needed
+        var curseWords = ["fuck", "shit", "motherfucker"]; // Add more curse words as needed
 
         function login() {
             var username = document.getElementById("username").value;
